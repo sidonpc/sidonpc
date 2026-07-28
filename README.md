@@ -15,7 +15,4 @@
 
 <br>
 
-### Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylynn-rees-a46870214/)
-
 <img src="https://raw.githubusercontent.com/sidonpc/sidonpc/refs/heads/main/contributor-card-sidonpc.svg">
